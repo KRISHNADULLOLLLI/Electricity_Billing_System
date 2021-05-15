@@ -20,11 +20,11 @@
  
              : Scene Builder (Graphic Editor) 
  
-             : LINK (https://gluonhq.com/products/scene-builder/#download)
+             : LINK TO DOWNLOAD (https://gluonhq.com/products/scene-builder/#download)
              
              : InTelliJ (Code Editor)
              
-             : LINK (https://www.jetbrains.com/idea/download/#section=windows)
+             : LINK TO DOWNLOAD (https://www.jetbrains.com/idea/download/#section=windows)
 
 * LIBIRARY USED : JavaFX
 ************************************************************************
