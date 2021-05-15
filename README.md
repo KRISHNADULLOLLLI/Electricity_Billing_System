@@ -16,7 +16,9 @@
 
 * SEMSETER - 3RD
 
-* TOOLS USED : JavaFx Libiraries, Scene Builder (Graphic Editor)
+* TOOLS USED : Scene Builder (Graphic Editor)
+
+* LIBIRARY USED : JavaFX
 ************************************************************************
 
 
