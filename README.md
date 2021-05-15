@@ -18,23 +18,25 @@
 
 * TOOLS USED 
  
-             : Scene Builder (Graphic Editor) 
+       1) Scene Builder (Graphic Editor) 
  
-               LINK TO DOWNLOAD (https://gluonhq.com/products/scene-builder/#download)
+         [Link to SceneBuilder](https://gluonhq.com/products/scene-builder/#download)
              
-             : InTelliJ (Code Editor)
+       2) InTelliJ (Code Editor)
              
-               LINK TO DOWNLOAD (https://www.jetbrains.com/idea/download/#section=windows)
+         [Link to IntelliJ Idea](https://www.jetbrains.com/idea/download/#section=windows)
                 
-             : LIBIRARY USED : JavaFX
+       3) LIBIRARY USED : JavaFX
+          
+         [Link to JavaFx]( https://docs.oracle.com/javase/8/javase-clienttechnologies.htm)
+       
+       
 ************************************************************************
 
 # USER INTERFACE OF THE APPLICATION
 
 
 ### SIGN UP WEBPAGE
-
-[Link to Google](https://www.google.com)
 
 ************************************************************************
 
