@@ -29,6 +29,8 @@
              : LIBIRARY USED : JavaFX
 ************************************************************************
 
+# APPLICATION SCREENSHOTS
+
 
 ### SIGN UP WEBPAGE
 
