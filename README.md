@@ -18,17 +18,17 @@
 
 * TOOLS USED 
  
-   1) Scene Builder (Graphic Editor) 
+    1) Scene Builder (Graphic Editor) 
  
-      [Link to SceneBuilder](https://gluonhq.com/products/scene-builder/#download)
+     [Download link to SceneBuilder](https://gluonhq.com/products/scene-builder/#download)
              
-   2)InTelliJ (Code Editor)
+    2) InTelliJ (Code Editor)
              
-      [Link to IntelliJ Idea](https://www.jetbrains.com/idea/download/#section=windows)
+     [Download link to IntelliJ Idea](https://www.jetbrains.com/idea/download/#section=windows)
                 
-   3) LIBIRARY USED : JavaFX
+    3) LIBIRARY USED : JavaFX
           
-      [Link to JavaFx]( https://docs.oracle.com/javase/8/javase-clienttechnologies.htm)
+     [Learn JavaFx]( https://docs.oracle.com/javase/8/javase-clienttechnologies.htm)
        
        
 ************************************************************************
