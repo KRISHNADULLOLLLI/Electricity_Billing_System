@@ -16,7 +16,7 @@
 
 * SEMSETER - 3RD
 
-* TOOLS USED : Scene Builder (Graphic Editor)
+* TOOLS USED : Scene Builder (Graphic Editor) and InTelliJ incode Editor
 
 * LIBIRARY USED : JavaFX
 ************************************************************************
