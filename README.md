@@ -16,8 +16,10 @@
 
 * SEMSETER - 3RD
 
-* TOOLS USED : Scene Builder (Graphic Editor) https://gluonhq.com/products/scene-builder/#download
-             : InTelliJ (Code Editor) https://www.jetbrains.com/idea/download/#section=windows
+* TOOLS USED : Scene Builder (Graphic Editor) 
+               https://gluonhq.com/products/scene-builder/#download
+             : InTelliJ (Code Editor)
+               https://www.jetbrains.com/idea/download/#section=windows
 
 * LIBIRARY USED : JavaFX
 ************************************************************************
