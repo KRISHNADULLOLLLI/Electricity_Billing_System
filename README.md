@@ -21,8 +21,6 @@
              : Scene Builder (Graphic Editor) 
  
                LINK TO DOWNLOAD (https://gluonhq.com/products/scene-builder/#download)
-               
-               [Link to Google](https://www.google.com)
              
              : InTelliJ (Code Editor)
              
@@ -36,7 +34,7 @@
 
 ### SIGN UP WEBPAGE
 
-
+[Link to Google](https://www.google.com)
 
 ************************************************************************
 
