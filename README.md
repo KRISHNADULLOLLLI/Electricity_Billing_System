@@ -47,45 +47,38 @@
 
 
 ### SIGN IN WEBPAGE
+![Sign in](https://user-images.githubusercontent.com/71308092/118483040-2a8c8780-b733-11eb-8dea-fd9e48b069f8.jpeg)
+
 
 
 ************************************************************************
 
 ### HOME WEBPAGE
+![New Connection](https://user-images.githubusercontent.com/71308092/118483048-2f513b80-b733-11eb-947b-535851f5aaf3.jpeg)
+
+************************************************************************
+
+
+### PROFILE
+![Profile](https://user-images.githubusercontent.com/71308092/118483157-527beb00-b733-11eb-85f1-6f3907dce916.jpeg)
+
+
+
+************************************************************************
+### UPDATE PROFILE INFORAMTION
+![update](https://user-images.githubusercontent.com/71308092/118483222-645d8e00-b733-11eb-9f2f-7d9e3fc68def.jpeg)
 
 
 ************************************************************************
 
 
-### BRANCH WEBPAGE
-
-************************************************************************
-### ADD POST WEBPAGE
-
+### ABOUT US
+![About us](https://user-images.githubusercontent.com/71308092/118483361-89ea9780-b733-11eb-92b6-6d417005ca8c.jpeg)
 
 
 ************************************************************************
-
-
-### MY POSTS WEBPAGE
-
-
-
-************************************************************************
-### DETAILED POST WEBPAGE
-
-************************************************************************
-
-### PROFILE WEBPAGE
-
-************************************************************************
-
-
-### EDIT PROFILE WEBPAGE
+### PAYMENT PORTAL
+![Payment portal](https://user-images.githubusercontent.com/71308092/118483450-a555a280-b733-11eb-90de-39a60a01ea4d.jpeg)
 
 
 ************************************************************************
-
-
-### ABOUT US WEBPAGE
-
